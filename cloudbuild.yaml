@@ -1,0 +1,5 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/capstone-project-01-443305/dental-app', '.']
+images:
+- 'gcr.io/capstone-project-01-443305/dental-app'
