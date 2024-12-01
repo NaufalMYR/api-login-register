@@ -1,4 +1,3 @@
 node_modules/
 config/serviceAccountKey.json
-package-lock.json
 .env
